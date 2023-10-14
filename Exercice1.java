@@ -16,5 +16,3 @@ public class Exercice1 {
         ("Différence entre "  x + " et " + y + " est: " + difference);
     }
 }
-
-//add extension to devcontainer
